@@ -1,7 +1,9 @@
 body {
 
 background-image:
-url("../pictures/landingbackground.jpg");
+url("landingbackground.jpg");
+background-size: cover;
+     background-position: center;
 }
 
 
