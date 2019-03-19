@@ -1,1 +1,63 @@
+body {
+
+background-image:
+url("landingbackground.jpg");
+background-size: cover;
+     background-position: center;
+}
+
+
+div {
+  min-height: 100vh;
+  width: 100vw;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 10em;
+  color: white;
+}
+
+h2 {
+  font-size: 2.5em;
+  color: white;
+}
+}
+
+img {
+  display: flex;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 130px;
+}
+
+p {
+  width: 40%;
+  margin: 0 10vw 10vh 10vw;
+  font-size: 2em;
+}
+
+a {
+  color: rgb(0,0,0);
+}
+
+ol {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 10%;
+  font-size: 3em;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+li#lower {
+  margin-top: 7%;
+}
+
+li#lowest {
+  margin-top: 14%;
+}
 
